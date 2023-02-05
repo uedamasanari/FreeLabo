@@ -1,1 +1,1 @@
-# FreeLabo
+# TypeScriptLabo
